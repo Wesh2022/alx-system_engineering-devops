@@ -1,1 +1,2 @@
+#!/bin/Bash
 head -10 /etc/passwd
